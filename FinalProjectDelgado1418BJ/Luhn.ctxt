@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=cNumber
+comment0.target=boolean\ Validate(java.lang.String)
+comment0.text=The\ Validate\ method\ evaluates\ a\ number\ and\ determines\ if\ it\ is\ a\ valid\ card\ or\ not\ using\ Luhn's\ algorithm.\r\n\ \r\n\ @param\ cNumber\r\n\ @return\ boolean\r\n\ @throws\ not\ implemented\r\n
+numComments=1

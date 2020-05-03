@@ -1,0 +1,36 @@
+3158539628375348 is Diner's Club - Carte Blanche.
+3337465828248404 is Diner's Club - Carte Blanche.
+3112804683572030 is Diner's Club - Carte Blanche.
+5435528978467581 is Diner's Club - North America.
+6706465468107999 is LASER
+6304362971054667 is InstaPayment
+6706169762827894 is LASER
+4844104341377697 does not have a known issuer.
+4913405490886727 does not have a known issuer.
+4844885754351829 does not have a known issuer.
+6371473570875275 is InstaPayment
+6381475006869978 is InstaPayment
+6389057917814806 is InstaPayment
+347100734345549 is AMEX.
+6011162533805000 is Discover.
+6011621663574413 is Discover.
+6011824617460743 is Discover.
+4539318768050385 is Visa
+36880982786892 is Diner's Club - International.
+36845793345501 is Diner's Club - International.
+36661154562232 is Diner's Club - International.
+5893329089846994 is Maestro
+6761680165952016 is LASER
+6763100400984029 is LASER
+5127043299122389 is MasterCard
+5330838017737340 is MasterCard
+5429168755154025 is Diner's Club - North America.
+375354034606481 is AMEX.
+379570632133224 is AMEX.
+4485521241443135 is Visa
+4532916206508075 is Visa
+5590976687287124 is Diner's Club - North America.
+5540641137519895 is Diner's Club - North America.
+30522070708059 is Diner's Club - Carte Blanche.
+30066552673241 is Diner's Club - Carte Blanche.
+30365487186802 is Diner's Club - Carte Blanche.
